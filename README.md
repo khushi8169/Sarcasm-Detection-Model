@@ -2,7 +2,7 @@
 
 This project is a **Machine Learning-based Sarcasm Detection System** that predicts whether a given sentence is sarcastic or not. It uses Natural Language Processing (NLP) techniques and the Bernoulli Naive Bayes algorithm trained on a real-world dataset from news headlines.
 
-![Sarcasm Detection Output](screenshots/image.png)
+![Sarcasm Detection Output](screenshots/Screenshot%202025-07-02%20181207.png)
 
 ---
 
